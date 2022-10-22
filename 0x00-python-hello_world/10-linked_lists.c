@@ -22,7 +22,7 @@ size_t print_listint(const listint_t *h)
 	}
 
 	return (n);
-
+}
 
 	/**
 	 * add_nodeint - adds a new node at the beginning of a listint_t list
